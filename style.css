@@ -1,0 +1,28 @@
+body {
+  background-color: skyblue;
+}
+
+#backhead {
+  background-color: aqua;
+  border-radius: 1%;
+  flex-wrap: wrap;
+}
+
+#head {
+  font-size: 30px;
+  font-family: monospace;
+  background-color: aliceblue;
+  width: fit-content;
+  height: fit-content;
+}
+
+#sub {
+  font-size: 20px;
+  font-family: monospace;
+  text-align: right;
+}
+
+.pharagraph {
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
