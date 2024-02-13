@@ -2,6 +2,11 @@ body {
   background-color: skyblue;
 }
 
+img {
+  width: 300px;
+  height: 200px;  
+}
+
 .backhead {
   background-color: aqua;
   border-radius: 1%;
@@ -20,6 +25,20 @@ body {
   font-size: 20px;
   font-family: monospace;
   text-align: right;
+}
+
+.sub2 {
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.pharagraph2 {
+  border-radius: 1%;
+  background-color: aqua;
+  font-size: 17px;
+  font-family: sans-serif;
+  width: 90%;
+  height: 50%;
 }
 
 .pharagraph {
